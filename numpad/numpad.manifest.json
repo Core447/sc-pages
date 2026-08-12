@@ -1,0 +1,20 @@
+{
+    "id": "com_core447_NumpadPage",
+    "name": "Numpad",
+    "version": "1.0.0",
+    "thumbnail": "thumbnails/numpad.png",
+    "descriptions": {
+        "en_US": "Emulates a numpad"
+    },
+    "short-descriptions": {
+        "en_US": "Emulates a numpad"
+    },
+    "minimum-app-version": "1.5.0",
+    "app-version": "1.5.0-beta.16",
+    "deck": {
+        "rows": 3,
+        "columns": 5,
+        "dials": 0,
+        "touchscreen": false
+    }
+}
