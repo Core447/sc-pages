@@ -2,7 +2,7 @@
     "id": "com_core447_NumpadPage",
     "name": "Numpad",
     "version": "1.0.0",
-    "thumbnail": "thumbnails/numpad.png",
+    "thumbnail": "numpad.png",
     "descriptions": {
         "en_US": "Emulates a numpad"
     },
